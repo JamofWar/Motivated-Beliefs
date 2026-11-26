@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Grow Pantheon",
+		"cost": 0,
+		"uniques": [
+			"Unbuildable <hidden from users>",
+			"Only available <when religion is enabled>",
+			"Gain a free [Pantheon] belief",
+			"Remove [Grow Pantheon] [in this city] <hidden from users>",
+		]
+	},
+	
+	{
+		"name": "Develop Religious Foundations",
+		"cost": 0,
+		"uniques": [
+			"Unbuildable <hidden from users>",
+			"Only available <when religion is enabled>",
+			"Gain a free [Founder] belief",
+			"Remove [Develop Religious Foundations] [in this city] <hidden from users>",
+		]
+	},
+	
+	{
+		"name": "Encourage Lay Practices",
+		"cost": 0,
+		"uniques": [
+			"Unbuildable <hidden from users>",
+			"Only available <when religion is enabled>",
+			"Gain a free [Follower] belief",
+			"Remove [Encourage Lay Practices] [in this city] <hidden from users>",
+		]
+	},
+	
+	{
+		"name": "Hold Council",
+		"cost": 0,
+		"uniques": [
+			"Unbuildable <hidden from users>",
+			"Only available <when religion is enabled>",
+			"Gain a free [Enhancer] belief",
+			"Remove [Hold Council] [in this city] <hidden from users>",
+		]
+	},
+]
